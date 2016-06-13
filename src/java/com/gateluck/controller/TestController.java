@@ -2,7 +2,7 @@ package com.gateluck.controller;
 
 import com.gateluck.model.UserInfo;
 import com.gateluck.service.UserInfoService;
-import com.sun.tools.internal.xjc.reader.xmlschema.bindinfo.BIConversion;
+//import com.sun.tools.internal.xjc.reader.xmlschema.bindinfo.BIConversion;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
